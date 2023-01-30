@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2c4b2bd6090bcf545a18cef51cf6f30f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EuroRoman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 083d1859d6d3e024d9aa2a508794b23d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

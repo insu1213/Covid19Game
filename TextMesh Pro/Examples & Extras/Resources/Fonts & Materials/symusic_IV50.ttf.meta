@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daa8393672e0d504684a2b20508be337
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Symusic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f69e30375aad474488e8c51b6050b11f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

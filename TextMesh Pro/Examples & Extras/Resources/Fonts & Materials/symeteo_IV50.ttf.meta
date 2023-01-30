@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fb2068cc9e7577c44b4e99c17f0a6eca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Symeteo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11347b245a372c4478d44d857442f204, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3b8435dc1d664a248b9ccbe32cb7bbfd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Perpetua Titling MT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 511a5f5891a602e449ba00d0ef75788f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

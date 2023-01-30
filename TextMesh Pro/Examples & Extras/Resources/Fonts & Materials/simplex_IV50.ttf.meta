@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f8c5f5e8bd4744e4785d8d6216aff4f9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Simplex
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 011ef3e5b7a3a1941838f16cd52aeeb0, type: 3}
+  - {fileID: 12800000, guid: b2f80528c8827184482cf3be4f1069cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

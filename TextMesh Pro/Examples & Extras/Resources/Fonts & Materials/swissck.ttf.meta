@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 211765b422394f54cb9ded084ee6778f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Swis721 BlkCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00724185d75e34d40a86f5e060343a0a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
